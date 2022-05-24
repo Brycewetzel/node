@@ -21,7 +21,7 @@ require (
 	github.com/denisenkom/go-mssqldb v0.0.0-20200620013148-b91950f658ec // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/erikstmartin/go-testdb v0.0.0-20160219214506-8d10e4a1bae5 // indirect
-	github.com/ethereum/go-ethereum v1.10.9
+	github.com/ethereum/go-ethereum v1.10.17
 	github.com/frankban/quicktest v1.5.0 // indirect
 	github.com/gballet/go-libpcsclite v0.0.0-20191108122812-4678299bea08 // indirect
 	github.com/gin-contrib/cors v1.3.0
@@ -32,15 +32,13 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-github/v35 v35.2.0
-	github.com/huin/goupnp v1.0.2
+	github.com/huin/goupnp v1.0.3-0.20220313090229-ca81a64b4204
 	github.com/jackpal/gateway v1.0.6
-	github.com/jackpal/go-nat-pmp v1.0.2 // indirect
 	github.com/jinzhu/now v1.1.1 // indirect
 	github.com/json-iterator/go v1.1.11 // indirect
 	github.com/julienschmidt/httprouter v1.2.0
 	github.com/klauspost/pgzip v1.2.4 // indirect
 	github.com/koron/go-ssdp v0.0.2
-	github.com/kr/pretty v0.2.1 // indirect
 	github.com/lib/pq v1.7.0 // indirect
 	github.com/libp2p/go-libp2p v0.5.2
 	github.com/libp2p/go-libp2p-core v0.3.0
@@ -89,5 +87,4 @@ require (
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.26.0
 	gopkg.in/src-d/go-git.v4 v4.13.1 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
