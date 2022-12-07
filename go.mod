@@ -17,7 +17,6 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.5.0
 	github.com/cenkalti/backoff/v4 v4.0.0
 	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
-	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/denisenkom/go-mssqldb v0.0.0-20200620013148-b91950f658ec // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/erikstmartin/go-testdb v0.0.0-20160219214506-8d10e4a1bae5 // indirect
@@ -29,25 +28,21 @@ require (
 	github.com/go-openapi/strfmt v0.19.3
 	github.com/go-ozzo/ozzo-validation v3.6.0+incompatible
 	github.com/gofrs/uuid v3.3.0+incompatible
-	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-github/v35 v35.2.0
 	github.com/huin/goupnp v1.0.2
 	github.com/jackpal/gateway v1.0.6
-	github.com/jackpal/go-nat-pmp v1.0.2 // indirect
 	github.com/jinzhu/now v1.1.1 // indirect
-	github.com/json-iterator/go v1.1.11 // indirect
-	github.com/julienschmidt/httprouter v1.2.0
+	github.com/julienschmidt/httprouter v1.3.0
 	github.com/klauspost/pgzip v1.2.4 // indirect
 	github.com/koron/go-ssdp v0.0.2
-	github.com/kr/pretty v0.2.1 // indirect
 	github.com/lib/pq v1.7.0 // indirect
-	github.com/libp2p/go-libp2p v0.5.2
-	github.com/libp2p/go-libp2p-core v0.3.0
+	github.com/libp2p/go-libp2p v0.18.1
+	github.com/libp2p/go-libp2p-core v0.14.0
 	github.com/magefile/mage v1.11.0
 	github.com/mholt/archiver v3.1.1+incompatible
-	github.com/miekg/dns v1.1.29
-	github.com/multiformats/go-multiaddr v0.2.0
+	github.com/miekg/dns v1.1.43
+	github.com/multiformats/go-multiaddr v0.5.0
 	github.com/mysteriumnetwork/feedback v1.1.1
 	github.com/mysteriumnetwork/go-ci v0.0.0-20200415074834-39fc864b0ed4
 	github.com/mysteriumnetwork/go-dvpn-web v1.0.0-rc0
@@ -60,7 +55,6 @@ require (
 	github.com/nats-io/nats.go v1.11.1-0.20210623165838-4b75fc59ae30
 	github.com/nwaples/rardecode v1.1.0 // indirect
 	github.com/oleksandr/bonjour v0.0.0-20160508152359-5dcf00d8b228
-	github.com/opentracing/opentracing-go v1.2.0 // indirect
 	github.com/oschwald/geoip2-golang v1.1.0
 	github.com/oschwald/maxminddb-golang v1.5.0 // indirect
 	github.com/pierrec/lz4 v2.5.2+incompatible // indirect
@@ -80,14 +74,13 @@ require (
 	github.com/xtaci/kcp-go/v5 v5.5.8
 	go.etcd.io/bbolt v1.3.4
 	go.mongodb.org/mongo-driver v1.7.0
-	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
-	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d
-	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
+	golang.org/x/crypto v0.0.0-20210813211128-0a44fdfbc16e
+	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d
+	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
 	golang.org/x/sys v0.0.0-20210816183151-1e6c022a8912
 	golang.zx2c4.com/wireguard v0.0.20200320
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20200324154536-ceff61240acf
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/protobuf v1.27.1
 	gopkg.in/src-d/go-git.v4 v4.13.1 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
